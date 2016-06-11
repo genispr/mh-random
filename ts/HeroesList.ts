@@ -3,6 +3,7 @@ class HeroesList
 	static HEROES:IHero[] =
 		[
 		{"name":"Ant-Man","img":"http://marvelheroes.info/img/chars/drop_antman.png","es":400},
+		{"name":"Black Cat","img":"http://marvelheroes.info/img/chars/drop_blackcat.png","es":400},
 		{"name":"Black Panther","img":"http://marvelheroes.info/img/chars/blackpanther.png","es":400},
 		{"name":"Black Widow","img":"http://marvelheroes.info/img/chars/blackwidow.png","es":200},
 		{"name":"Blade","img":"http://marvelheroes.info/img/chars/drop_blade.png","es":400},
@@ -15,9 +16,11 @@ class HeroesList
 		{"name":"Deadpool","img":"http://marvelheroes.info/img/chars/deadpool.png","es":600},
 		{"name":"Doctor Strange","img":"http://marvelheroes.info/img/chars/drstrange.png","es":600},
 		{"name":"Dr. Doom","img":"http://marvelheroes.info/img/chars/drdoom_ff.png","es":600},
+		{"name":"Elektra","img":"http://marvelheroes.info/img/chars/drop_elektra.png","es":400},
 		{"name":"Emma Frost","img":"http://marvelheroes.info/img/chars/emmafrost.png","es":400},
 		{"name":"Gambit","img":"http://marvelheroes.info/img/chars/gambit.png","es":400},
 		{"name":"Ghost Rider","img":"http://marvelheroes.info/img/chars/ghostrider.png","es":600},
+		{"name":"Green Goblin","img":"http://marvelheroes.info/img/chars/drop_greengoblin.png","es":400},
 		{"name":"Hawkeye","img":"http://marvelheroes.info/img/chars/hawkeye.png","es":200},
 		{"name":"Hulk","img":"http://marvelheroes.info/img/chars/hulk.png","es":400},
 		{"name":"Human Torch","img":"http://marvelheroes.info/img/chars/humantorch.png","es":400},
