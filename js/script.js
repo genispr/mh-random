@@ -152,7 +152,8 @@ var HeroesList = (function () {
         {"name":"Winter Soldier","img":"http://marvelheroes.info/img/chars/wintersoldier.png","es":400},
         {"name":"Wolverine","img":"http://marvelheroes.info/img/chars/wolverine.png","es":400},
         {"name":"X-23","img":"http://marvelheroes.info/img/chars/x23.png","es":200},
-        {"name":"Ultron","img":"http://marvelheroes.info/img/chars/drop_ultron.png","es":400}
+        {"name":"Ultron","img":"http://marvelheroes.info/img/chars/drop_ultron.png","es":400},
+        {"name":"Angela","img":"http://marvelheroes.info/img/chars/drop_angela.png","es":400}
 ];
     return HeroesList;
 })();
